@@ -1,9 +1,9 @@
 #!/bin/bash
 # read the name of the user and print hello
 
-echo "Hello! What is your first name?"
+echo "Hello! What is your first name!"
 read firstname
-echo "what is your last name?"
+echo "what is your last name!"
 read lastname
 echo "Welcome, $firstname $lastname"
 
